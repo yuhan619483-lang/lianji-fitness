@@ -1,0 +1,14 @@
+{
+  "name": "练迹 · 我的训练记录",
+  "short_name": "练迹",
+  "description": "训练计划、动作记录和进度追踪",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f0e8",
+  "theme_color": "#0b1915",
+  "icons": [
+    { "src": "icons/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
